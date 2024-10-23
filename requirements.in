@@ -1,0 +1,14 @@
+chromadb
+fairseq2
+numpy
+pandas
+tensorflow
+plotly
+scikit-learn
+matplotlib
+kneed
+tqdm
+sonar-space
+torch
+umap-learn
+nbformat
