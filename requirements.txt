@@ -28,6 +28,8 @@ backoff==2.2.1
     # via posthog
 bcrypt==4.2.0
     # via chromadb
+beautifulsoup4==4.12.3
+    # via -r requirements.in
 build==1.2.2.post1
     # via chromadb
 cachetools==5.5.0
@@ -215,6 +217,7 @@ numpy==1.26.4
     #   sox
     #   tensorboard
     #   tensorflow
+    #   torchvision
     #   umap-learn
 oauthlib==3.2.2
     # via
@@ -284,7 +287,9 @@ packaging==23.2
 pandas==2.2.3
     # via -r requirements.in
 pillow==11.0.0
-    # via matplotlib
+    # via
+    #   matplotlib
+    #   torchvision
 platformdirs==4.3.6
     # via jupyter-core
 plotly==5.24.1
@@ -351,6 +356,7 @@ regex==2024.9.11
     # via sacrebleu
 requests==2.32.3
     # via
+    #   -r requirements.in
     #   huggingface-hub
     #   kubernetes
     #   posthog
@@ -401,6 +407,8 @@ sonar-space==0.2.1
     # via -r requirements.in
 soundfile==0.12.1
     # via sonar-space
+soupsieve==2.6
+    # via beautifulsoup4
 sox==1.5.0
     # via sonar-space
 starlette==0.41.0
@@ -436,10 +444,15 @@ torch==2.2.2
     #   fairseq2n
     #   sonar-space
     #   torchaudio
+    #   torchvision
 torchaudio==2.2.2
-    # via sonar-space
+    # via
+    #   -r requirements.in
+    #   sonar-space
 torcheval==0.0.7
     # via fairseq2
+torchvision==0.17.2
+    # via -r requirements.in
 tqdm==4.66.5
     # via
     #   -r requirements.in
