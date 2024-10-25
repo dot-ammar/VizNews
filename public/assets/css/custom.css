@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+#rssForm {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+#rssForm h1 {
+    color: #333;
+}
+
+#rssForm .form-control {
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+#rssForm .btn-primary {
+    background-color: #007bff;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+#rssForm .btn-primary:hover {
+    background-color: #0056b3;
+}
+
+#rssForm .btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+#rssForm .btn-success:hover {
+    background-color: #218838;
+}
+
+.feed-item {
+    animation-duration: 0.5s;
+}
+
+.feed-url {
+    word-break: break-all;
+}
+
+.animate__animated {
+    --animate-duration: 0.5s;
+}

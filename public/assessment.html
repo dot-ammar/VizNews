@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <title>VizNews - RSS Feeds</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+    <style>
+        #loadingContainer {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            top: 25%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 100vw;
+            height: 100vh;
+        }
+
+        #loading {
+            font-family: 'Roboto', sans-serif;
+            font-size: 3rem;
+            font-weight: 500;
+            transform: translate(0%, 70%);
+            color: #285084;
+            text-align: center;
+            margin-bottom: 20px; /* Spacing between text and loader */
+        }
+
+        .loader {
+            border: opx solid #f3f3f3; /* Light grey */
+            border-top: 16px solid #a22f2f; /* Blue */
+            border-radius: 70%;
+            width: 120px;
+            height: 120px;
+            animation: spin 2s linear infinite;
+        }
+
+        /* Keyframes for spinner animation */
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        #loadingOverlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgb(255, 255, 255); /* Adjust color and opacity as needed */
+            display: flex;
+            opacity: 0.95;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000; /* Ensure it's above other content */
+        }
+
+        #submit {
+            background-color: #ac1010;
+            border-color: #e4e4e4;
+
+        }
+
+        #addFeedBtn {
+            background-color: #3b4ccc;
+            border-color: #e4e4e4;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="loadingOverlay" style="display: none;">
+        <div id = loadingContainer>
+            <div id= loader1 class="loader"></div>
+            <heading id=loading>Analyzing News...</heading>
+        </div>
+    </div>
+    <section class="d-flex align-items-center min-vh-100">
+        <div class="container">
+            <h2 class="text-center mb-5 animate__animated animate__fadeInDown">RSS Feed Submissions</h2>
+            <form id="rssForm" class="border rounded shadow-lg p-5 bg-white animate__animated animate__zoomIn">
+                <h1 class="text-center mb-4" style="font-size: 36px;">Add Your RSS Feed URLs</h1>
+                <div class="mb-4">
+                    <div class="input-group mb-3">
+                        <input id="rssInput" type="text" class="form-control form-control-lg" placeholder="Enter an RSS feed URL">
+                        <button id="addFeedBtn" class="btn  btn-lg" type="button"><i class="fas fa-plus"></i></button>
+                    </div>
+                    <label class="form-label mt-2" style="font-size: 14px;">*Click the plus button to add the URL to your list</label>
+                </div>
+                <div id="feedList" class="mb-4">
+                </div>
+                <button id="submit" class="btn btn btn-lg w-100" type="submit">Submit</button>
+            </form>
+        </div>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/assessment.js"></script>
+</body>
+
+</html>

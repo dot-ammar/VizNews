@@ -1,16 +1,20 @@
 
 
 chroma_data/
-
+/node_modules
+.firebase/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 *.zip
 *.csv
-
+firebase-debug.log
+firestore.indexes.json 
 # C extensions
 *.so
+firestore.rules
+.runtimeconfig.json
 
 # Distribution / packaging
 .Python

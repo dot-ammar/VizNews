@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>VizNews</title>
+    <link rel="shortcut icon" type="image/png" href="/assets/images/profile.png" />
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/Features-Centered-Icons-icons.css">
+    <link rel="stylesheet" href="assets/css/multi-step-form.css">
+    <link rel="stylesheet" href="assets/css/projects.css">
+    <style>
+        /* Sticky Header */
+        .sticky-header {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 120px; /* Adjust to your navbar's height */
+            background-color: white;
+            z-index: 1000;
+            padding: 10px 0;
+            transition: all 0.3s ease;
+        }
+
+        /* Fade-in Effect for Images */
+        .fade-in {
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+        }
+
+        .fade-in.visible {
+            opacity: 1;
+        }
+
+        /* Header Overlay */
+        #header-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 1vh;
+            background-color: #ffffff;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            z-index: 2;
+        }
+
+        .masthead .container {
+            position: relative;
+        }
+
+        .masthead .container > *:not(#header-overlay) {
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Fade-out and Fade-in Effect for Header Content */
+        #header-content {
+            opacity: 1;
+            /* Remove the transition */
+            /* transition: opacity 0.5s ease-in-out; */
+        }
+
+        #header-content.hidden {
+            opacity: 0;
+        }
+
+        /* Fade-in Effect for Images */
+        .image-set {
+            opacity: 1;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 0;
+
+        }
+
+        .image-set .col-md-4 {
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        .image-set img {
+            width: 100%;
+            height: 300px; /* Adjust this value as needed */
+            object-fit: cover;
+            margin: 0;
+        }
+
+        .image-set.hidden {
+            opacity: 0;
+            pointer-events: none;
+            /* Do not change display property here */
+        }
+
+        #scrolling-header.hidden {
+            opacity: 0;
+        }
+        /* CSS Adjustments */
+
+        /* Ensure .hidden does not change display or visibility */
+        .hidden {
+            opacity: 0;
+            pointer-events: none;
+            /* Remove any display or visibility changes */
+        }
+
+        #github-section {
+            height: vh; /* Set your desired height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #273848 !important;
+            padding : 30px;
+        }
+
+        #under-image-section {
+            height: 15vh; /* Set your desired height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #bababa !important;
+
+        }
+
+        #frontbanner {
+            background: linear-gradient(180deg, #cd6464 0%, #29336a 100%) !important;
+        }
+
+        hr.star-light {
+            border-color: #ffffff;
+        }
+
+        hr.star-light:after {
+            padding-top: 30px;
+            color: #ffffff00 !important;
+            background-color: #c9fbf100 !important;
+            
+        }
+    </style>
+</head>
+
+<body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="72">
+    <nav class="navbar navbar-expand-lg fixed-top bg-secondary text-uppercase navbar-light" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand" href="#page-top">VizNews</a>
+            <button data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
+                class="navbar-toggler text-white bg-primary navbar-toggler-right text-uppercase rounded"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item mx-0 mx-lg-1"></li>
+                    <li class="nav-item mx-0 mx-lg-1"></li>
+                    <li class="nav-item mx-0 mx-lg-1">
+                        <a class="nav-link py-3 px-0 px-lg-3 rounded" href="assessment.html"
+                            style="border: 6px solid #ffffff;">Start NOW!</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header id="frontbanner" class="text-center text-white bg-primary masthead">
+        <div id="header-overlay"></div>
+        <div class="container position-relative">
+            <!-- Header Content -->
+            <img class="img-fluid d-block mx-auto mb-5" src="assets/img/profile.png" style="border-radius: 50%;" width="179" height="179">
+            <h1>Visualize Your News</h1>
+            <hr id = "under" class="star-light">
+            <h2 class="font-weight-light mb-0">FREE - NO API - RSS Only</h2>
+        </div>
+    </header>
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <!-- Sticky Header -->
+            <h2 id="scrolling-header" class="sticky-header text-uppercase text-center text-secondary">
+                <span id="header-content">Loooooong News feeds?</span>
+            </h2>
+            <hr class="star-dark mb-5">
+            <!-- New Content Section -->
+            <div id="new-content">
+                <!-- First Set of Images -->
+                <div id="first-images" class="image-set row no-gutters">
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image1.png" class="img-fluid" alt="Image 1">
+                    </div>
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image2.png" class="img-fluid" alt="Image 2">
+                    </div>
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image3.png" class="img-fluid" alt="Image 3">
+                    </div>
+                </div>
+                <!-- Second Set of Images -->
+                <div id="second-images" class="image-set row hidden no-gutters">
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image4.png" class="img-fluid" alt="Image 4">
+                    </div>
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image5.png" class="img-fluid" alt="Image 5">
+                    </div>
+                    <div class="col-md-4 p-0">
+                        <img src="assets/img/image6.png" class="img-fluid" alt="Image 6">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="under-image-section" class="text-white bg-primary mb-0" id="about">
+        <div class="container">
+            <h2 class="text-uppercase text-center text-white">
+                <span style="color:#9d2121;">Personalized</span> Feeds <br><br>
+                <span style="color:#2115cb;">AI</span> Powered Visualizations
+            </h2>
+        </div>
+    </section>
+    <footer id="github-section" class="text-center footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-5 mb-lg-0">
+                    <h4 class="text-uppercase"></h4>
+                    <p><br></p>
+                </div>
+                <div class="col-md-4 mb-5 mb-lg-0">
+                    <h4 class="text-uppercase">GitHub</h4>
+                    <ul class="list-inline">
+                        <li class="list-inline-item">
+                            <a class="btn btn-outline-light text-center btn-social rounded-circle" role="button"
+                                href="https://github.com/dot-ammar/VizNews">
+                                <i class="fa fa-github fa-fw"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="text-center text-white copyright py-4">
+        <div class="container"><small>VizNews 2024</small></div>
+    </div>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/codegrow.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var scrollingHeader = document.getElementById('scrolling-header');
+            var headerContent = document.getElementById('header-content');
+            var newContent = document.getElementById('new-content');
+            var masthead = document.querySelector('.masthead');
+            var headerOverlay = document.getElementById('header-overlay');
+            var firstImages = document.getElementById('first-images');
+            var secondImages = document.getElementById('second-images');
+
+            var mastheadHeight, fadeDistance, removeStickyPosition, imagesTransitionStart, imagesTransitionEnd;
+
+            function easeInOutQuad(t) {
+                return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+            }
+
+            function updatePositions() {
+                mastheadHeight = masthead.offsetHeight;
+                fadeDistance = mastheadHeight / 2;
+                removeStickyPosition = newContent.offsetTop - scrollingHeader.offsetHeight - 150;
+                imagesTransitionStart = removeStickyPosition;
+                imagesTransitionEnd = imagesTransitionStart + (window.innerHeight / 4 ); // Faster transition
+            }
+
+            updatePositions();
+            window.addEventListener('resize', updatePositions);
+
+            window.addEventListener('scroll', function () {
+                var scrollY = window.scrollY || window.pageYOffset;
+
+                // Masthead opacity remains the same
+                var mastheadOpacity = 1 - Math.min(scrollY / fadeDistance, 1);
+                masthead.style.opacity = mastheadOpacity;
+
+                // Header overlay opacity remains the same
+                var overlayOpacity = Math.min(scrollY / fadeDistance, 1);
+                headerOverlay.style.opacity = overlayOpacity;
+
+                // Header content change with adjusted range
+                var headerChangeStart = mastheadHeight * 0.75; // Adjusted for faster fade
+                var headerChangeEnd = mastheadHeight * 1;   // Adjusted for faster fade
+                var headerChangeProgress = (scrollY - headerChangeStart) / (headerChangeEnd - headerChangeStart);
+                headerChangeProgress = Math.max(0, Math.min(headerChangeProgress, 10));
+
+                // Apply easing function
+                var easedHeaderProgress = easeInOutQuad(headerChangeProgress);
+
+                if (headerChangeProgress >= 0.5) {
+                    headerContent.textContent = 'Yeah not anymore';
+                    headerContent.style.opacity = 1;  // Keep "Yeah not anymore" fully visible
+                } else if (headerChangeProgress <= 0) {
+                    headerContent.textContent = 'Loooooong News feeds?';
+                    headerContent.style.opacity = 1 - easedHeaderProgress;  // Fade out "Loooooong News feeds?"
+                }
+
+                // Images transition with adjusted range
+                var imagesTransitionProgress = (scrollY - imagesTransitionStart) / (imagesTransitionEnd - imagesTransitionStart);
+                imagesTransitionProgress = Math.max(0, Math.min(imagesTransitionProgress, 1));
+
+                // Apply easing function
+                var easedImagesProgress = easeInOutQuad(imagesTransitionProgress);
+
+                firstImages.style.opacity = 1 - easedImagesProgress;
+                secondImages.style.opacity = easedImagesProgress;
+
+                // Sticky header remains the same
+                if (scrollY >= removeStickyPosition + 400) {
+                    /*scrollingHeader.classList.remove('sticky-header');*/
+                } else {
+                    scrollingHeader.classList.add('sticky-header');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

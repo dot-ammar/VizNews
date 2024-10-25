@@ -30,7 +30,7 @@ def findEPS(reduced_embeddings, k=4):
     plt.xlabel('Points sorted by distance')
     plt.ylabel('k-distance')
     plt.title('k-distance graph to determine eps')
-    plt.show()
+    #plt.show()
 
     kneedle = KneeLocator(range(len(distances)), distances, S=1.0, curve='convex', direction='increasing')
     optimal_eps = distances[kneedle.elbow]
