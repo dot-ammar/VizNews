@@ -27,23 +27,25 @@ CORS(app)
 
 @app.route("/process", methods=["POST"])
 def process_data():
-    data = request.json  # Get JSON data from the POST request
-    # Perform your data processing here
+    data = request.json  
     print(data)
     result = data_processing_function(data)
-    return jsonify(result)  # Send JSON response back
+    return jsonify(result) 
 
 
 def data_processing_function(data):
 
     try:
         client.delete_collection(COLLECTION_NAME)
-        "ChromaDB collection deleted."
+        print("ChromaDB collection deleted.")
     except:
         print("ChromaDB collection does not exist.")
 
     client.create_collection(name=COLLECTION_NAME, embedding_function=embedding_func)
 
+    rss_nlp.rss_feeds = []
+    rss_nlp.articles = []
+    
     rss_nlp.rss_feeds = data["rssFeeds"]
 
     rss_nlp.get_articles()

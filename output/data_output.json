@@ -1,12 +1,194 @@
 {
     "wordcloudpath": "./public/assets/news/wordcloud.png",
     "clusterpath": "./public/assets/news/cluster.html",
-    "numSources": 3,
-    "numArticles": 201,
-    "average_polarity": 0.0788208663252462,
-    "average_subjectivity": 0.4628530540542065,
+    "numSources": 5,
+    "numArticles": 155,
+    "average_polarity": 0.03822710008174767,
+    "average_subjectivity": 0.39482040506034843,
     "articles": [
         {
+            "title": "The View dismisses outrage over President Biden's 'garbage' comments: 'Working very hard to spin this'",
+            "link": "https://www.foxnews.com/media/view-dismisses-outrage-over-president-bidens-garbage-comments-working-very-hard-spin-this",
+            "polarity": -0.07502254689754685,
+            "subjectivity": 0.5271329365079365,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Man spends thousands for Halloween turning his garage into ultimate haunted house",
+            "link": "https://www.foxnews.com/travel/man-spends-thousands-dollars-halloween-garage-ultimate-haunted-house",
+            "polarity": 0.037801891091364774,
+            "subjectivity": 0.5771758942811576,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "'Treated you like garbage': Trump uses Biden criticism as rallying cry in battleground North Carolina",
+            "link": "https://www.foxnews.com/politics/treated-you-like-garbage-trump-uses-biden-criticism-rallying-cry-battleground-north-carolina",
+            "polarity": 0.030921592775041057,
+            "subjectivity": 0.4500718390804598,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "White House denies that Biden referred to Trump supporters as 'garbage'",
+            "link": "https://www.foxnews.com/politics/white-house-denies-biden-referred-trump-supporters-garbage",
+            "polarity": 0.07613636363636364,
+            "subjectivity": 0.2867243867243867,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Biden's 'garbage' remark being used by down-ballot GOP candidates in closing voter pitch",
+            "link": "https://www.foxnews.com/politics/bidens-garbage-comment-being-used-down-ballot-gop-candidates-closing-voter-pitch",
+            "polarity": -0.1078341013824885,
+            "subjectivity": 0.4333141321044547,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Biden\u2019s \u2018garbage\u2019 shot at Trump supporters downplayed, dismissed, spun by media: 'Comes down to an apostrophe'",
+            "link": "https://www.foxnews.com/media/bidens-garbage-shot-trump-supporters-downplayed-dismissed-spun-media-comes-down-apostrophe",
+            "polarity": 0.033225108225108234,
+            "subjectivity": 0.40187847866419296,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Canada alleges Indian minister Amit Shah behind plot to target Sikh separatists",
+            "link": "https://www.foxnews.com/world/canada-alleges-indian-minister-amit-shah-plot-target-sikh-separatists",
+            "polarity": -0.0707551319648094,
+            "subjectivity": 0.28237536656891493,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Yankees fans banned from World Series Game 5 after interfering with Dodgers' Mookie Betts",
+            "link": "https://www.foxnews.com/sports/yankees-mlb-ban-fans-who-interfered-mookie-betts-from-attending-world-series-game-5",
+            "polarity": -0.006648785996612086,
+            "subjectivity": 0.3779408996800302,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "NC mother, daughter turn small business into relief center to help victims of Hurricane Helene: \u2018Giving hope\u2019",
+            "link": "https://www.foxnews.com/us/nc-mother-daughter-turn-small-business-relief-center-help-victims-hurricane-helene-giving-hope",
+            "polarity": 0.0268526170798898,
+            "subjectivity": 0.38083333333333325,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Harris-Trump showdown: In nation's biggest battleground, new polls show 'it's really, really close'",
+            "link": "https://www.foxnews.com/politics/harris-trump-showdown-nations-biggest-battleground-new-poll-shows-its-really-really-close",
+            "polarity": 0.06929519792921855,
+            "subjectivity": 0.38148636586780904,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Former Jill Biden staffer torches White House\u2019s \u2018bonehead\u2019 attempt to transcribe Biden\u2019s \u2018garbage\u2019 comment",
+            "link": "https://www.foxnews.com/politics/former-jill-biden-staffer-torches-white-house-bonehead-attempt-transcribe-bidens-garbage-comment",
+            "polarity": -0.07767371517371516,
+            "subjectivity": 0.37992007992007987,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Missing Georgia mom Minelys Rodriguez, a TikTokker, found dead near Walmart where she was last seen alive",
+            "link": "https://www.foxnews.com/us/missing-georgia-mom-minelys-rodriguez-tiktokker-found-dead-near-walmart-where-she-last-seen-alive",
+            "polarity": -0.03706140350877193,
+            "subjectivity": 0.2026315789473684,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Colorado teen suffering from kidney failure after eating McDonald's quarter pounders, lawyer says",
+            "link": "https://www.foxnews.com/us/colorado-teen-suffering-from-kidney-failure-after-eating-mcdonalds-quarter-pounders-lawyer-says",
+            "polarity": 0.029034749034749043,
+            "subjectivity": 0.4488288288288288,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Reporter's Notebook: The hard stuff is yet to come",
+            "link": "https://www.foxnews.com/politics/reporters-notebook-hard-stuff-yet-come",
+            "polarity": 0.08238227967001552,
+            "subjectivity": 0.45665686514743103,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Harris campaign dishes out six-figure donations to groups who support defunding police, reparations",
+            "link": "https://www.foxnews.com/politics/harris-campaign-dishes-out-six-figure-donations-groups-defunding-police-reparations",
+            "polarity": 0.0530695990517419,
+            "subjectivity": 0.37495941558441565,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "LeBron James, Bronny James expected to play together in Cleveland homecoming",
+            "link": "https://www.foxnews.com/sports/lebron-james-bronny-james-expected-play-together-cleveland-homecoming",
+            "polarity": 0.07759740259740262,
+            "subjectivity": 0.29150432900432904,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Skydiver plunges to death in freak accident after both parachutes fail",
+            "link": "https://www.foxnews.com/world/skydiver-plunges-death-freak-accident-after-both-parachutes-fail",
+            "polarity": -0.0365217391304348,
+            "subjectivity": 0.40282608695652167,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "'That's a lie': Georgia's top elections official blasts Harris for attacking state voter law",
+            "link": "https://www.foxnews.com/politics/thats-lie-georgias-top-elections-official-blasts-harris-attacking-state-voter-law",
+            "polarity": 0.14947948876520303,
+            "subjectivity": 0.4045196866625438,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Israel cease-fire plan for Lebanon seeks to bypass UN, as US mediators travel to Jerusalem for talks",
+            "link": "https://www.foxnews.com/world/israel-cease-fire-plan-lebanon-seeks-bypass-un-us-mediators-travel-jerusalem-talks",
+            "polarity": 0.07238713667285097,
+            "subjectivity": 0.3469523036487323,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Megan Rapinoe takes swipe at \u2018violent reality\u2019 of another Trump presidency",
+            "link": "https://www.foxnews.com/sports/megan-rapinoe-takes-swipe-violent-reality-another-trump-presidency",
+            "polarity": -0.07080370026798599,
+            "subjectivity": 0.5483418367346937,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Voter registration probes launched in crucial Keystone State counties amid claims of potential fraud",
+            "link": "https://www.foxnews.com/politics/voter-registration-probes-launched-crucial-keystone-state-counties-amid-claims-potential-fraud",
+            "polarity": 0.027698412698412705,
+            "subjectivity": 0.49623015873015863,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "'Powerful and very inspiring': The Shabbat Project turns 12",
+            "link": "https://www.foxnews.com/faith-values/powerful-very-inspiring-shabbat-project-turns-12",
+            "polarity": 0.17484402852049916,
+            "subjectivity": 0.39670231729055266,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "How GOP, Dem senators are using 2024 campaign trail to lobby for conference influence",
+            "link": "https://www.foxnews.com/politics/we-cant-let-up-how-gop-dem-senators-using-2024-campaign-trail-lobby-conference-influence",
+            "polarity": 0.11368241687390622,
+            "subjectivity": 0.37363912683061623,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Olivia Rodrigo says she was detained and interrogated by border control",
+            "link": "https://www.foxnews.com/entertainment/olivia-rodrigo-says-detained-interrogated-border-control",
+            "polarity": -0.007797280844155815,
+            "subjectivity": 0.5868681231962481,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Dem rep fires back at CNN host for comparing Biden's 'garbage' line to comic's Puerto Rico joke",
+            "link": "https://www.foxnews.com/media/dem-rep-fires-back-cnn-host-comparing-bidens-garbage-line-comics-puerto-rico-joke",
+            "polarity": -0.0380952380952381,
+            "subjectivity": 0.46115646258503395,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Trump pleads not guilty to 34 felony counts",
+            "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+            "polarity": 0.053668831168831185,
+            "subjectivity": 0.4392294372294372,
+            "sentiment": "Positive"
+        },
+        {
             "title": "Haberman reveals why Trump attacked judge and his family in speech",
             "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
             "polarity": 0.06666666666666667,
@@ -14,11 +196,39 @@
             "sentiment": "Positive"
         },
         {
+            "title": "What to know about the Trump indictment on the eve of his court appearance",
+            "link": "https://www.cnn.com/collections/intl-trump-040223/",
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "sentiment": "Neutral"
+        },
+        {
+            "title": "READ: Trump indictment related to hush money payment",
+            "link": "https://cnn.it/411KYN7",
+            "polarity": 0.06666666666666667,
+            "subjectivity": 0.7000000000000001,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+            "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
+            "polarity": -0.006017015392015395,
+            "subjectivity": 0.359815416065416,
+            "sentiment": "Negative"
+        },
+        {
             "title": "Video shows moment of deadly explosion at cafe in Russia",
             "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
             "polarity": 0.06666666666666667,
             "subjectivity": 0.7000000000000001,
             "sentiment": "Positive"
+        },
+        {
+            "title": "Wall Street Journal reporter Evan Gershkovich appeals against arrest, Russian state media says",
+            "link": "https://www.cnn.com/collections/intl-ukraine-030423/",
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "sentiment": "Neutral"
         },
         {
             "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
@@ -74,6 +284,13 @@
             "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
             "polarity": 0.11482683982683983,
             "subjectivity": 0.3366747835497836,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Hundreds of millions at risk from Chinese shopping app malware",
+            "link": "https://cnn.it/40OSomK",
+            "polarity": 0.054291708709001935,
+            "subjectivity": 0.4110058174907799,
             "sentiment": "Positive"
         },
         {
@@ -315,1102 +532,563 @@
             "sentiment": "Positive"
         },
         {
-            "title": "Haberman reveals why Trump attacked judge and his family in speech",
-            "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Erdogan tacitly supports ally's proposal for leniency toward imprisoned Kurdish militant leader",
+            "link": "https://abcnews.go.com/International/wireStory/erdogan-tacitly-supports-allys-proposal-leniency-imprisoned-kurdish-115276739",
+            "polarity": 0.08458931419457734,
+            "subjectivity": 0.32721291866028707,
             "sentiment": "Positive"
         },
         {
-            "title": "Video shows moment of deadly explosion at cafe in Russia",
-            "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Hungary's Orb\u00e1n boosts Georgia's ruling party over election despite an outcry the vote was rigged",
+            "link": "https://abcnews.go.com/International/wireStory/hungarys-orbn-visits-georgia-give-boost-ruling-party-115250064",
+            "polarity": 0.03929501784764942,
+            "subjectivity": 0.2824753170805802,
             "sentiment": "Positive"
         },
         {
-            "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
-            "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
-            "polarity": 0.10050106326422116,
-            "subjectivity": 0.4377277157540316,
+            "title": "Australian prime minister defends himself from an accusation that he asked for free flight upgrades",
+            "link": "https://abcnews.go.com/International/wireStory/australian-prime-minister-defends-accusation-asked-free-flight-115248960",
+            "polarity": 0.09515151515151515,
+            "subjectivity": 0.25994949494949493,
             "sentiment": "Positive"
         },
         {
-            "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
-            "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-            "polarity": -0.004252700161791073,
-            "subjectivity": 0.35454844818481174,
+            "title": "Lebanon's Hezbollah says it has chosen Naim Kassem as its new leader after the killing of Hassan Nasrallah",
+            "link": "https://abcnews.go.com/International/wireStory/lebanons-hezbollah-chosen-naim-kassem-new-leader-after-115250422",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Owners of New Zealand volcano that erupted in 2019, killing 22, appeal conviction",
+            "link": "https://abcnews.go.com/International/wireStory/owners-new-zealand-volcano-erupted-2019-killing-22-115252955",
+            "polarity": 0.03338031886812374,
+            "subjectivity": 0.4627446943300601,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Botswana holds an election where the diamond trade has become a central issue",
+            "link": "https://abcnews.go.com/International/wireStory/botswanas-election-decides-party-power-58-years-gets-115292330",
+            "polarity": 0.0791768020339449,
+            "subjectivity": 0.36139558853844567,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Hundreds of Jews murdered at a little known Nazi labor camp are remembered",
+            "link": "https://abcnews.go.com/International/wireStory/hundreds-jews-murdered-nazi-labor-camp-remembered-115300514",
+            "polarity": 0.06383477633477633,
+            "subjectivity": 0.3249098124098124,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Poland's commission looking into Russian influences finds ex-defense minister at fault",
+            "link": "https://abcnews.go.com/International/wireStory/polands-commission-russian-influences-finds-defense-minister-fault-115306264",
+            "polarity": -0.003996598639455786,
+            "subjectivity": 0.3350340136054422,
             "sentiment": "Negative"
         },
         {
-            "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "China launches a new crew to its orbiting space station as it seeks a major role in space exploration",
+            "link": "https://abcnews.go.com/International/wireStory/china-launches-new-crew-orbiting-space-station-seeks-115279705",
+            "polarity": 0.09943181818181818,
+            "subjectivity": 0.4772727272727273,
             "sentiment": "Positive"
         },
         {
-            "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
-            "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
-            "polarity": 0.06648113790970933,
-            "subjectivity": 0.2686363636363636,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "French minister under fire for Playboy magazine cover",
-            "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
-            "polarity": 0.11169131794131792,
-            "subjectivity": 0.3131222943722944,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Britain's pound is beating every other major currency this year",
-            "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
-            "polarity": 0.0337901664730933,
-            "subjectivity": 0.28175377468060386,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Finland's Prime Minister Sanna Marin concedes election",
-            "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
-            "polarity": 0.11482683982683983,
-            "subjectivity": 0.3366747835497836,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
-            "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
-            "polarity": 0.08804701251129823,
-            "subjectivity": 0.4337050821202606,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-            "link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-            "polarity": 0.13260988738929913,
-            "subjectivity": 0.4516971182412359,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Video shows moment man throws yogurt on two women in Iran",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
-            "polarity": 0.10529243326118326,
-            "subjectivity": 0.3609086399711399,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Erdogan's political fate may be determined by Turkey's Kurds",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-            "polarity": 0.02645038555194805,
-            "subjectivity": 0.32726393398268405,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
-            "link": "https://www.cnn.com/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
-            "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
-            "polarity": 0.08164600550964186,
-            "subjectivity": 0.32947658402203844,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Man rides out tornado inside van. See the footage",
-            "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "China Renaissance suspends trading, delays results after founder's disappearance",
-            "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
-            "polarity": 0.04649234693877551,
-            "subjectivity": 0.2903486394557823,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "HSBC's top execs face tense shareholders calling for a breakup",
-            "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
-            "polarity": 0.03744239631336405,
-            "subjectivity": 0.30112548741581,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Lawmaker speaks out about his struggle with depression",
-            "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "CEOs are tired of being held responsible for gun regulation",
-            "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-            "polarity": 0.0446068557293047,
-            "subjectivity": 0.3467632962275818,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What pet cemeteries reveal about being human",
-            "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
-            "polarity": 0.09514640452140449,
-            "subjectivity": 0.3766784912618248,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Scientists film deepest ever fish on seabed off Japan",
-            "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-            "polarity": 0.10293062200956937,
-            "subjectivity": 0.5188909774436091,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What OPEC's surprise oil cut means for gas prices",
-            "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
-            "polarity": -0.019857761286332713,
-            "subjectivity": 0.34379394415108705,
+            "title": "Middle East latest: Hezbollah picks a new leader and Israel bombs southern Lebanon",
+            "link": "https://abcnews.go.com/International/wireStory/middle-east-latest-dozens-killed-wounded-israeli-strike-115250589",
+            "polarity": -0.03647131488040579,
+            "subjectivity": 0.3527485351348986,
             "sentiment": "Negative"
         },
         {
-            "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
-            "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "AP PHOTOS: River and air pollution in India's capital pose a severe health threat to residents",
+            "link": "https://abcnews.go.com/International/wireStory/ap-photos-river-air-pollution-indias-capital-pose-115250769",
+            "polarity": 0.0359250398724083,
+            "subjectivity": 0.47515948963317384,
             "sentiment": "Positive"
         },
         {
-            "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
-            "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
-            "polarity": 0.07411628601283775,
-            "subjectivity": 0.5263837886251679,
+            "title": "Taxes, spending and borrowing all higher as the new Labour government seeks to 'rebuild' the UK",
+            "link": "https://abcnews.go.com/International/wireStory/spending-tax-hikes-expected-budget-britains-labour-government-115294863",
+            "polarity": 0.0483445720945721,
+            "subjectivity": 0.28511224886224895,
             "sentiment": "Positive"
         },
         {
-            "title": "These are the animals people most want to see photographed",
-            "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
-            "polarity": 0.0714399916322993,
-            "subjectivity": 0.3779077759846992,
+            "title": "An explosion of fireworks injures more than 150 people at a temple in India",
+            "link": "https://abcnews.go.com/International/wireStory/explosion-fireworks-injures-150-people-temple-india-115245072",
+            "polarity": 0.019104084321475624,
+            "subjectivity": 0.336627140974967,
             "sentiment": "Positive"
         },
         {
-            "title": "Syrian refugee elected mayor of German town, years after fleeing war",
-            "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
-            "polarity": 0.109241575418046,
-            "subjectivity": 0.2630294542059247,
-            "sentiment": "Positive"
+            "title": "A boat carrying Egyptian migrants to Europe has capsized off Libya\u2019s coast, killing 12, authorities say",
+            "link": "https://abcnews.go.com/International/wireStory/boat-carrying-egyptian-migrants-europe-capsized-off-libyas-115249760",
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "sentiment": "Neutral"
         },
         {
-            "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
-            "link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
-            "polarity": 0.0953638602776534,
-            "subjectivity": 0.44893006418868486,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-            "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-            "polarity": 0.07820677621698031,
-            "subjectivity": 0.3575279822218599,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
-            "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
-            "polarity": 0.1291147110465292,
-            "subjectivity": 0.4729023501750775,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-            "link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-            "polarity": 0.0677206499967694,
-            "subjectivity": 0.3178345286554242,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "See the world's deepest fish",
-            "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
-            "polarity": 0.24521329365079358,
-            "subjectivity": 0.6038194444444444,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
-            "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-            "polarity": -0.03000000000000001,
-            "subjectivity": 0.44273809523809526,
+            "title": "Police say British teen accused of fatally stabbing 3 girls also made poison and had a terror manual",
+            "link": "https://abcnews.go.com/International/wireStory/teen-accused-stabbing-rampage-killed-3-girls-england-115264784",
+            "polarity": -0.12323747680890544,
+            "subjectivity": 0.3512832405689549,
             "sentiment": "Negative"
         },
         {
-            "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
-            "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-            "polarity": 0.10177717019822284,
-            "subjectivity": 0.41239842029315715,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-            "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
-            "link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-            "polarity": 0.03194059177068888,
-            "subjectivity": 0.36956195099398986,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Teenage swimmer breaks two world records in four days",
-            "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-            "polarity": 0.11927083333333335,
-            "subjectivity": 0.3781250000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
-            "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
-            "polarity": 0.09436813186813187,
-            "subjectivity": 0.4288438057668825,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
-            "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-            "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-            "polarity": 0.13852436323366557,
-            "subjectivity": 0.42354970610784565,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Shania Twain calls for equal pay and more diversity in country music",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
-            "polarity": 0.34605263157894733,
-            "subjectivity": 0.48684210526315796,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Haberman reveals why Trump attacked judge and his family in speech",
-            "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Video shows moment of deadly explosion at cafe in Russia",
-            "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
-            "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
-            "polarity": 0.10050106326422116,
-            "subjectivity": 0.4377277157540316,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
-            "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-            "polarity": -0.004252700161791073,
-            "subjectivity": 0.35454844818481174,
+            "title": "Duterte\u2019s jarring testimony into drug killings in Philippines relives a nightmare for many",
+            "link": "https://abcnews.go.com/International/wireStory/dutertes-jarring-testimony-drug-killings-philippines-relives-nightmare-115251527",
+            "polarity": -0.05927634357512407,
+            "subjectivity": 0.3811384753457925,
             "sentiment": "Negative"
         },
         {
-            "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
-            "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
-            "polarity": 0.06648113790970933,
-            "subjectivity": 0.2686363636363636,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "French minister under fire for Playboy magazine cover",
-            "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
-            "polarity": 0.11169131794131792,
-            "subjectivity": 0.3131222943722944,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Britain's pound is beating every other major currency this year",
-            "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
-            "polarity": 0.0337901664730933,
-            "subjectivity": 0.28175377468060386,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Finland's Prime Minister Sanna Marin concedes election",
-            "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
-            "polarity": 0.11482683982683983,
-            "subjectivity": 0.3366747835497836,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
-            "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
-            "polarity": 0.08804701251129823,
-            "subjectivity": 0.4337050821202606,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-            "link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-            "polarity": 0.13260988738929913,
-            "subjectivity": 0.4516971182412359,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Video shows moment man throws yogurt on two women in Iran",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
-            "polarity": 0.10529243326118326,
-            "subjectivity": 0.3609086399711399,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Erdogan's political fate may be determined by Turkey's Kurds",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-            "polarity": 0.02645038555194805,
-            "subjectivity": 0.32726393398268405,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
-            "link": "https://www.cnn.com/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
-            "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
-            "polarity": 0.08164600550964186,
-            "subjectivity": 0.32947658402203844,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Man rides out tornado inside van. See the footage",
-            "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "China Renaissance suspends trading, delays results after founder's disappearance",
-            "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
-            "polarity": 0.04649234693877551,
-            "subjectivity": 0.2903486394557823,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "HSBC's top execs face tense shareholders calling for a breakup",
-            "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
-            "polarity": 0.03744239631336405,
-            "subjectivity": 0.30112548741581,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Lawmaker speaks out about his struggle with depression",
-            "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "CEOs are tired of being held responsible for gun regulation",
-            "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-            "polarity": 0.0446068557293047,
-            "subjectivity": 0.3467632962275818,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What pet cemeteries reveal about being human",
-            "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
-            "polarity": 0.09514640452140449,
-            "subjectivity": 0.3766784912618248,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Scientists film deepest ever fish on seabed off Japan",
-            "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-            "polarity": 0.10293062200956937,
-            "subjectivity": 0.5188909774436091,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What OPEC's surprise oil cut means for gas prices",
-            "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
-            "polarity": -0.019857761286332713,
-            "subjectivity": 0.34379394415108705,
+            "title": "The EU is imposing duties on electric vehicles from China after trade talks fail",
+            "link": "https://abcnews.go.com/International/wireStory/eu-impose-duties-electric-vehicle-imports-china-thursday-115265711",
+            "polarity": -0.03480576441102758,
+            "subjectivity": 0.400062656641604,
             "sentiment": "Negative"
         },
         {
-            "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
-            "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "North Korea's top diplomat set to hold talks in Moscow amid reports of troop deployment",
+            "link": "https://abcnews.go.com/International/wireStory/north-koreas-top-diplomat-set-hold-talks-moscow-115295107",
+            "polarity": 0.04466145833333334,
+            "subjectivity": 0.2505208333333333,
             "sentiment": "Positive"
         },
         {
-            "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
-            "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
-            "polarity": 0.07411628601283775,
-            "subjectivity": 0.5263837886251679,
+            "title": "UK Treasury chief Rachel Reeves unveils budget with 40 billion pounds in tax hikes, says she'll \u201cinvest, invest, invest\u201d",
+            "link": "https://abcnews.go.com/International/wireStory/uk-treasury-chief-rachel-reeves-unveils-budget-40-115299832",
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "sentiment": "Neutral"
+        },
+        {
+            "title": "What to know about Europe's tariffs on Chinese electric vehicles",
+            "link": "https://abcnews.go.com/International/wireStory/europes-tariffs-chinese-electric-vehicles-115293439",
+            "polarity": 0.0049685846560846535,
+            "subjectivity": 0.3687913359788359,
             "sentiment": "Positive"
         },
         {
-            "title": "These are the animals people most want to see photographed",
-            "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
-            "polarity": 0.0714399916322993,
-            "subjectivity": 0.3779077759846992,
+            "title": "Teen charged in UK dance class stabbings stays silent in court on new poison and terror charges",
+            "link": "https://abcnews.go.com/International/wireStory/teen-charged-english-dance-class-stabbings-court-poison-115295726",
+            "polarity": 0.03957792207792208,
+            "subjectivity": 0.37109307359307353,
             "sentiment": "Positive"
         },
         {
-            "title": "Syrian refugee elected mayor of German town, years after fleeing war",
-            "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
-            "polarity": 0.109241575418046,
-            "subjectivity": 0.2630294542059247,
+            "title": "Greek leaders tell German president a WWII reparations claim is very much alive",
+            "link": "https://abcnews.go.com/International/wireStory/greek-leaders-german-president-wwii-reparations-claim-alive-115320032",
+            "polarity": 0.022000000000000002,
+            "subjectivity": 0.088,
             "sentiment": "Positive"
         },
         {
-            "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
-            "link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
-            "polarity": 0.0953638602776534,
-            "subjectivity": 0.44893006418868486,
+            "title": "A New Zealand city waves goodbye to its 'disturbing' giant hand sculpture that many came to love",
+            "link": "https://abcnews.go.com/International/wireStory/new-zealand-city-waves-goodbye-giant-hand-sculpture-115295007",
+            "polarity": 0.03154356060606061,
+            "subjectivity": 0.5431313131313131,
             "sentiment": "Positive"
         },
         {
-            "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-            "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-            "polarity": 0.07820677621698031,
-            "subjectivity": 0.3575279822218599,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
-            "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
-            "polarity": 0.1291147110465292,
-            "subjectivity": 0.4729023501750775,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-            "link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-            "polarity": 0.0677206499967694,
-            "subjectivity": 0.3178345286554242,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "See the world's deepest fish",
-            "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
-            "polarity": 0.24521329365079358,
-            "subjectivity": 0.6038194444444444,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
-            "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-            "polarity": -0.03000000000000001,
-            "subjectivity": 0.44273809523809526,
+            "title": "Boat carrying Egyptian migrants to Europe capsizes off Libyan coast, killing 12",
+            "link": "https://abcnews.go.com/International/wireStory/boat-carrying-egyptian-migrants-europe-capsizes-off-libyan-115249850",
+            "polarity": -0.07326388888888889,
+            "subjectivity": 0.23437499999999997,
             "sentiment": "Negative"
         },
         {
-            "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
-            "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-            "polarity": 0.10177717019822284,
-            "subjectivity": 0.41239842029315715,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-            "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
-            "link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-            "polarity": 0.03194059177068888,
-            "subjectivity": 0.36956195099398986,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Teenage swimmer breaks two world records in four days",
-            "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-            "polarity": 0.11927083333333335,
-            "subjectivity": 0.3781250000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
-            "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
-            "polarity": 0.09436813186813187,
-            "subjectivity": 0.4288438057668825,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
-            "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-            "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-            "polarity": 0.13852436323366557,
-            "subjectivity": 0.42354970610784565,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Shania Twain calls for equal pay and more diversity in country music",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
-            "polarity": 0.34605263157894733,
-            "subjectivity": 0.48684210526315796,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Tyson Fury reveals wife, Paris, had miscarriage on eve of fight with Oleksandr Usyk",
-            "link": "https://www.foxnews.com/sports/tyson-fury-reveals-wife-paris-had-miscarriage-eve-fight-oleksandr-usyk",
-            "polarity": -0.06392361111111111,
-            "subjectivity": 0.39790178571428575,
+            "title": "Congo wants UN peacekeepers gone. But endless war around minerals is complicating that",
+            "link": "https://abcnews.go.com/International/wireStory/congo-peacekeepers-endless-war-minerals-complicating-115248212",
+            "polarity": -0.020886313299104012,
+            "subjectivity": 0.39327066344508205,
             "sentiment": "Negative"
         },
         {
-            "title": "British Olympian Geoff Capes, former World's Strongest Man, dead at 75",
-            "link": "https://www.foxnews.com/sports/british-olympian-geoff-capes-former-worlds-strongest-man-dead-75",
-            "polarity": 0.11944444444444446,
-            "subjectivity": 0.4083333333333334,
+            "title": "'Like a tsunami': Spaniards recount horror of deadly floods",
+            "link": "https://www.bbc.com/news/articles/c8ekdp4r6kpo",
+            "polarity": 0.025847069597069602,
+            "subjectivity": 0.4410714285714284,
             "sentiment": "Positive"
         },
         {
-            "title": "Los Angeles DA Gascon threw 'Hail Mary' in Menendez brothers re-sentencing announcement, 'a disgrace': expert",
-            "link": "https://www.foxnews.com/us/los-angeles-da-gascon-threw-hail-mary-menendez-brothers-re-sentencing-announcement-a-disgrace-expert",
-            "polarity": -0.001143378226711576,
-            "subjectivity": 0.4119809203142536,
+            "title": "Timing of Spain flood alert under scrutiny as blame game rages",
+            "link": "https://www.bbc.com/news/articles/cwyx75ppr79o",
+            "polarity": -0.00026881720430106535,
+            "subjectivity": 0.42392473118279567,
             "sentiment": "Negative"
         },
         {
-            "title": "Olympic laughingstock Raygun undergoes total makeover for magazine cover",
-            "link": "https://www.foxnews.com/sports/olympic-laughingstock-raygun-undergoes-total-makeover-magazine-cover",
-            "polarity": 0.12414285714285715,
-            "subjectivity": 0.3572380952380952,
+            "title": "'I'm not a one-issue voter, but this is huge': Women on how abortion shaped their vote",
+            "link": "https://www.bbc.com/news/articles/cew2x50808go",
+            "polarity": 0.0948288690476191,
+            "subjectivity": 0.45863803854875285,
             "sentiment": "Positive"
         },
         {
-            "title": "Mel Gibson backs Trump for president, says Harris has 'the IQ of a fence post'",
-            "link": "https://www.foxnews.com/media/mel-gibson-backs-trump-president-says-harris-has-the-iq-fence-post",
-            "polarity": 0.03500000000000001,
-            "subjectivity": 0.4541666666666666,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Detained husband of missing Texas mom files motion to see his children, argues he isn't a 'flight risk'",
-            "link": "https://www.foxnews.com/us/detained-husband-missing-texas-mom-files-motion-see-his-children-argues-he-isnt-flight-risk",
-            "polarity": -0.03974905303030304,
-            "subjectivity": 0.19500811688311687,
+            "title": "US warns Israel over Gaza aid as deadline nears",
+            "link": "https://www.bbc.com/news/articles/cx2n4x9dlz7o",
+            "polarity": -0.0489138837353123,
+            "subjectivity": 0.35887832405689546,
             "sentiment": "Negative"
         },
         {
-            "title": "Liam Payne's Buenos Aires hotel raided by Argentinian police amid investigation into singer's death",
-            "link": "https://www.foxnews.com/entertainment/liam-paynes-buenos-aires-hotel-raided-argentinian-police-amid-investigation-singers-death",
-            "polarity": 0.012159863945578232,
-            "subjectivity": 0.25344387755102044,
+            "title": "Tensions rise in Beirut after influx of displaced people",
+            "link": "https://www.bbc.com/news/articles/c99rx89znmlo",
+            "polarity": 0.013894628099173557,
+            "subjectivity": 0.35265151515151516,
             "sentiment": "Positive"
         },
         {
-            "title": "Aaron Judge talks Juan Soto's Yankees free agency decision ahead of World Series",
-            "link": "https://www.foxnews.com/sports/aaron-judge-talks-juan-sotos-yankees-free-agency-decision-ahead-world-series",
-            "polarity": 0.07500243506493504,
-            "subjectivity": 0.4808047438672438,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Harvard professors argue that America needs a 'militant democracy' to stop Trump",
-            "link": "https://www.foxnews.com/media/harvard-professors-argue-america-needs-militant-democracy-stop-trump",
-            "polarity": 0.10365800865800866,
-            "subjectivity": 0.3743815708101422,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "LAURA INGRAHAM: The Harris hit squad needed an October surprise",
-            "link": "https://www.foxnews.com/media/laura-ingraham-harris-hit-squad-needed-october-surprise",
-            "polarity": 0.11939393939393939,
-            "subjectivity": 0.40121212121212124,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Penn State's James Franklin steps away from press conference when asked about former players' rape charges",
-            "link": "https://www.foxnews.com/sports/penn-states-james-franklin-steps-away-from-press-conference-when-asked-about-former-players-rape-charges",
-            "polarity": 0.05733333333333334,
-            "subjectivity": 0.5266666666666666,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Denzel Washington appears to lash out at fans in heated exchange in NYC",
-            "link": "https://www.foxnews.com/entertainment/denzel-washington-lashes-out-fans-heated-exchange-nyc",
-            "polarity": 0.06880570409982173,
-            "subjectivity": 0.4541889483065954,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "'Love Boat' theme singer Jack Jones dead at 86",
-            "link": "https://www.foxnews.com/entertainment/love-boat-theme-singer-jack-jones-dead-86",
-            "polarity": 0.2190039127539128,
-            "subjectivity": 0.5379037629037628,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "RFK Jr urges Catholics to vote for Trump in new ad",
-            "link": "https://www.foxnews.com/politics/rfk-jr-urges-catholics-vote-trump-new-ad",
-            "polarity": 0.06055572334642101,
-            "subjectivity": 0.2722704620960436,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Patrick Mahomes credits his 'dad bod' for viral touchdown vs. 49ers",
-            "link": "https://www.foxnews.com/sports/patrick-mahomes-credits-his-dad-bod-viral-touchdown-vs-49ers",
-            "polarity": 0.07928571428571426,
-            "subjectivity": 0.3592857142857143,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "'Indiana Jones civilization' 2,000-year-old temple found submerged off Italian coast",
-            "link": "https://www.foxnews.com/lifestyle/indiana-jones-civilization-2000-year-old-temple-found-submerged-off-italian-coast",
-            "polarity": 0.1741978609625669,
-            "subjectivity": 0.49950980392156863,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Ex-Astros player calls sign-stealing whistleblower a 'crap' teammate, suggests Yankees may be guilty, too",
-            "link": "https://www.foxnews.com/sports/ex-astros-player-calls-sign-stealing-whistleblower-crap-teammate-suggests-yankees-may-guilty-too",
-            "polarity": -0.034196969696969705,
-            "subjectivity": 0.4091212121212121,
+            "title": "Ukraine in new mobilisation drive as Russia advances",
+            "link": "https://www.bbc.com/news/articles/cx2n4n1r307o",
+            "polarity": -0.01741477272727273,
+            "subjectivity": 0.33351325757575756,
             "sentiment": "Negative"
         },
         {
-            "title": "Army soldier\u2019s death investigated as homicide after body found inside Missouri base dumpster",
-            "link": "https://www.foxnews.com/us/army-soldiers-death-investigated-homicide-body-found-inside-missouri-base-dumpster",
-            "polarity": -0.07533577533577533,
-            "subjectivity": 0.4313492063492064,
+            "title": "Rescuers search for hotel collapse survivors in Argentina",
+            "link": "https://www.bbc.com/news/articles/cy0l9jlge1eo",
+            "polarity": -0.03333333333333333,
+            "subjectivity": 0.3433333333333333,
             "sentiment": "Negative"
         },
         {
-            "title": "Iranian armed forces plan to triple Revolutionary Guard budget thanks to oil exports",
-            "link": "https://www.foxnews.com/politics/iran-triple-revolutionary-guard-budget-oil-revenue",
-            "polarity": 0.0030721172766627293,
-            "subjectivity": 0.3772407516725698,
+            "title": "China declares success as its youngest astronauts reach space",
+            "link": "https://www.bbc.com/news/articles/c5yp47prg7jo",
+            "polarity": 0.14719465927331096,
+            "subjectivity": 0.4485809134685539,
             "sentiment": "Positive"
         },
         {
-            "title": "Trump may appear at Penn State football game right before Election Day: report",
-            "link": "https://www.foxnews.com/sports/trump-may-appear-penn-state-football-game-right-before-election-day-report",
-            "polarity": 0.002680652680652683,
-            "subjectivity": 0.41146673838981535,
+            "title": "How X users can earn thousands from US election misinformation and AI images",
+            "link": "https://www.bbc.com/news/articles/cx2dpj485nno",
+            "polarity": 0.02940062388591801,
+            "subjectivity": 0.45741264454499764,
             "sentiment": "Positive"
         },
         {
-            "title": "Political rock stars, entertainment celebrities team up with Harris on campaign trail",
-            "link": "https://www.foxnews.com/politics/political-rock-stars-entertainment-celebrities-team-up-harris-campaign-trail",
-            "polarity": 0.12986742424242423,
-            "subjectivity": 0.44073863636363636,
+            "title": "Police recover more than 40,000 stolen Bluey coins",
+            "link": "https://www.bbc.com/news/articles/c80l5rn4ge9o",
+            "polarity": 0.06305777555777556,
+            "subjectivity": 0.25541541791541794,
             "sentiment": "Positive"
         },
         {
-            "title": "Timeline of the Menendez brothers\u2019 murder case",
-            "link": "https://www.foxnews.com/us/timeline-menendez-brothers-murder-case",
-            "polarity": 0.07793456543456544,
-            "subjectivity": 0.24705294705294706,
+            "title": "Lisa Kudrow pays tribute to Friends mother Teri Garr",
+            "link": "https://www.bbc.com/news/articles/cje09595v5ko",
+            "polarity": 0.27848484848484845,
+            "subjectivity": 0.4566666666666667,
             "sentiment": "Positive"
         },
         {
-            "title": "Texas DPS surveillance plane captures Mexican cartel factions during gun battle near border",
-            "link": "https://www.foxnews.com/us/texas-dps-surveillance-plane-captures-mexican-cartel-factions-gun-battle-border",
-            "polarity": -0.013137254901960778,
-            "subjectivity": 0.42931372549019614,
+            "title": "US calls deadly Israeli air strike 'horrifying'",
+            "link": "https://www.bbc.com/news/articles/clydngkv3xko",
+            "polarity": -0.13202380952380957,
+            "subjectivity": 0.36005952380952383,
             "sentiment": "Negative"
         },
         {
-            "title": "Matthew McConaughey always planned to ditch Hollywood for Texas",
-            "link": "https://www.foxnews.com/entertainment/matthew-mcconaughey-planned-ditch-hollywood-texas",
-            "polarity": 0.04332514332514333,
-            "subjectivity": 0.3797297297297296,
+            "title": "South Africa to strip beauty queen of ID documents",
+            "link": "https://www.bbc.com/news/articles/cy0lpdl2lweo",
+            "polarity": 0.2420634920634921,
+            "subjectivity": 0.4197089947089947,
             "sentiment": "Positive"
         },
         {
-            "title": "Fox News Politics: Nearly 1 million migrants staying 'indefinitely'",
-            "link": "https://www.foxnews.com/politics/fox-news-politics-nearly-1-million-migrants-staying-indefinitely",
-            "polarity": 0.020835353535353533,
-            "subjectivity": 0.3891141414141414,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Haberman reveals why Trump attacked judge and his family in speech",
-            "link": "https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Video shows moment of deadly explosion at cafe in Russia",
-            "link": "https://www.cnn.com/videos/world/2023/04/02/russian-military-blogger-vladlen-tatarsky-killed-cafe-explosion-chance-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Suspected Chinese spy balloon was able to transmit information back to Beijing",
-            "link": "https://www.cnn.com/2023/04/03/politics/chinese-spy-balloon/index.html",
-            "polarity": 0.10050106326422116,
-            "subjectivity": 0.4377277157540316,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Beijing promised to 'fight back' over Taiwan leader's US visit. But this time it has more to lose",
-            "link": "https://www.cnn.com/2023/04/04/asia/tsai-ing-wen-taiwan-mccarthy-meeting-analysis-intl-hnk/index.html",
-            "polarity": -0.004252700161791073,
-            "subjectivity": 0.35454844818481174,
+            "title": "Drivers rescued after floodwaters cause chaos in Spain",
+            "link": "https://www.bbc.com/news/videos/cm2melvlpwro",
+            "polarity": -0.1761904761904762,
+            "subjectivity": 0.5095238095238096,
             "sentiment": "Negative"
         },
         {
-            "title": "'Scary, cold, hungry and lonely': Volunteer soldier shares experience on front line",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/soldiers-russia-ukraine-war-david-mckenzie-pkg-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Moment US ballot box found in middle of road",
+            "link": "https://www.bbc.com/news/videos/cn5w40ll379o",
+            "polarity": 0.012500000000000002,
+            "subjectivity": 0.1708333333333333,
             "sentiment": "Positive"
         },
         {
-            "title": "The four astronauts NASA picked for the first crewed moon mission in 50 years",
-            "link": "https://www.cnn.com/2023/04/03/world/artemis-2-astronaut-crew-scn/index.html",
-            "polarity": 0.06648113790970933,
-            "subjectivity": 0.2686363636363636,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "French minister under fire for Playboy magazine cover",
-            "link": "https://www.cnn.com/2023/04/02/europe/french-minister-playboy-cover-intl/index.html",
-            "polarity": 0.11169131794131792,
-            "subjectivity": 0.3131222943722944,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Why did Finland's PM lose? Reporter explains the key issue voters cared about",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/finland-prime-minister-sanna-marin-concedes-election-right-wing-party-wins-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Britain's pound is beating every other major currency this year",
-            "link": "https://www.cnn.com/2023/04/04/investing/british-pound-currency-dollar/index.html",
-            "polarity": 0.0337901664730933,
-            "subjectivity": 0.28175377468060386,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Finland's Prime Minister Sanna Marin concedes election",
-            "link": "https://www.cnn.com/2023/04/02/europe/sanna-marin-finland-elections-concedes-intl/index.html",
-            "polarity": 0.11482683982683983,
-            "subjectivity": 0.3366747835497836,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "The $500 billion beauty industry's 'green' ambitions are a patchwork at best. And they're falling short",
-            "link": "https://www.cnn.com/style/article/beauty-skincare-climate/index.html",
-            "polarity": 0.08804701251129823,
-            "subjectivity": 0.4337050821202606,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "A new approach to a Covid-19 nasal vaccine shows early promise",
-            "link": "https://www.cnn.com/2023/04/03/health/nasal-vaccine-sterilizing-immunity/index.html",
-            "polarity": 0.13260988738929913,
-            "subjectivity": 0.4516971182412359,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Video shows moment man throws yogurt on two women in Iran",
-            "link": "https://www.cnn.com/videos/world/2023/04/03/man-throws-yogurt-on-women-iran-president-raisi-hijab-is-law-nada-bashir-ovn-intl-ldn-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Israeli military veterans, a backbone of protest movement, vow to keep demonstrating",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/israel-protests-military-veterans-intl-cmd/index.html",
-            "polarity": 0.10529243326118326,
-            "subjectivity": 0.3609086399711399,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Erdogan's political fate may be determined by Turkey's Kurds",
-            "link": "https://www.cnn.com/2023/04/03/middleeast/kurdish-kingmaker-turkish-elections-mime-intl/index.html",
-            "polarity": 0.02645038555194805,
-            "subjectivity": 0.32726393398268405,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Dogecoin jumps after Elon Musk replaces Twitter bird with Shiba Inu",
-            "link": "https://www.cnn.com/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Micron Technology: China probes US chip maker for cybersecurity risks as tech tension escalates",
-            "link": "https://www.cnn.com/2023/04/03/tech/china-micron-probe-us-chip-war-intl-hnk/index.html",
-            "polarity": 0.08164600550964186,
-            "subjectivity": 0.32947658402203844,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Man rides out tornado inside van. See the footage",
-            "link": "https://www.cnn.com/videos/weather/2023/04/02/little-rock-arkansas-tornado-man-inside-van-cnntmw-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "China Renaissance suspends trading, delays results after founder's disappearance",
-            "link": "https://www.cnn.com/2023/04/03/investing/china-renaissance-delays-results-missing-ceo-intl-hnk/index.html",
-            "polarity": 0.04649234693877551,
-            "subjectivity": 0.2903486394557823,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "HSBC's top execs face tense shareholders calling for a breakup",
-            "link": "https://www.cnn.com/2023/04/03/business/hsbc-spin-off-hk-shareholder-meeting-intl-hnk/index.html",
-            "polarity": 0.03744239631336405,
-            "subjectivity": 0.30112548741581,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Lawmaker speaks out about his struggle with depression",
-            "link": "https://www.cnn.com/videos/politics/2023/04/02/john-fetterman-depression-downward-spiral-acostanr-sot-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "CEOs are tired of being held responsible for gun regulation",
-            "link": "https://www.cnn.com/2023/04/03/investing/premarket-stocks-trading/index.html",
-            "polarity": 0.0446068557293047,
-            "subjectivity": 0.3467632962275818,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What pet cemeteries reveal about being human",
-            "link": "https://www.cnn.com/2023/04/03/opinions/pet-cemeteries-burying-animals-history-tourigny/index.html",
-            "polarity": 0.09514640452140449,
-            "subjectivity": 0.3766784912618248,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Scientists film deepest ever fish on seabed off Japan",
-            "link": "https://www.cnn.com/2023/04/03/asia/deepest-fish-filmed-off-japan-scn-intl-hnk/index.html",
-            "polarity": 0.10293062200956937,
-            "subjectivity": 0.5188909774436091,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "What OPEC's surprise oil cut means for gas prices",
-            "link": "https://www.cnn.com/2023/04/03/energy/gas-prices-opec/index.html",
-            "polarity": -0.019857761286332713,
-            "subjectivity": 0.34379394415108705,
+            "title": "China spacecraft launches in mission to space station",
+            "link": "https://www.bbc.com/news/videos/cq6l26dq52mo",
+            "polarity": -0.3,
+            "subjectivity": 0.45,
             "sentiment": "Negative"
         },
         {
-            "title": "Palestinian taxi driver recounts surviving attack by right-wing protesters",
-            "link": "https://www.cnn.com/videos/world/2023/03/31/israel-protests-rise-taxi-driver-attacked-robertson-pkg-intl-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Children saved from car stuck in path of oncoming train",
+            "link": "https://www.bbc.com/news/videos/c20659ylpw1o",
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333,
+            "sentiment": "Neutral"
+        },
+        {
+            "title": "What a discovered lost Maya city might have looked like",
+            "link": "https://www.bbc.com/news/videos/cq8vqg8d4dko",
+            "polarity": 0.03333333333333336,
+            "subjectivity": 0.5666666666666668,
             "sentiment": "Positive"
         },
         {
-            "title": "Giving Marjorie Taylor Greene a platform isn't good for America",
-            "link": "https://www.cnn.com/2023/04/03/opinions/60-minutes-marjorie-taylor-greene-interview-obeidallah/index.html",
-            "polarity": 0.07411628601283775,
-            "subjectivity": 0.5263837886251679,
+            "title": "Scientists say climate change made Spanish floods worse",
+            "link": "https://www.bbc.com/news/articles/c98eylqeg06o",
+            "polarity": 0.05794162826420891,
+            "subjectivity": 0.5413287250384023,
             "sentiment": "Positive"
         },
         {
-            "title": "These are the animals people most want to see photographed",
-            "link": "https://www.cnn.com/travel/article/new-big-5-wildlife-photography-book-c2e-scn-spc-intl/index.html",
-            "polarity": 0.0714399916322993,
-            "subjectivity": 0.3779077759846992,
+            "title": "Harris makes last big-stage pitch to undecided voters, vowing 'different path'",
+            "link": "https://www.bbc.com/news/articles/ced9n00n820o",
+            "polarity": 0.019178754968228663,
+            "subjectivity": 0.4373242449558238,
             "sentiment": "Positive"
         },
         {
-            "title": "Syrian refugee elected mayor of German town, years after fleeing war",
-            "link": "https://www.cnn.com/2023/04/04/europe/germany-mayor-syrian-refugee-intl/index.html",
-            "polarity": 0.109241575418046,
-            "subjectivity": 0.2630294542059247,
+            "title": "What is Unrwa and why has Israel banned it?",
+            "link": "https://www.bbc.com/news/articles/c8jy9v43z89o",
+            "polarity": 0.06425080296048037,
+            "subjectivity": 0.3170367267141461,
             "sentiment": "Positive"
         },
         {
-            "title": "Study finds slightly higher risk of autism diagnosis in areas with more lithium in drinking water, but experts say more research is needed",
-            "link": "https://www.cnn.com/2023/04/03/health/autism-lithium-study/index.html",
-            "polarity": 0.0953638602776534,
-            "subjectivity": 0.44893006418868486,
+            "title": "What the US election outcome means for Ukraine, Gaza and world conflict",
+            "link": "https://www.bbc.com/news/articles/cgl490zrz45o",
+            "polarity": 0.0688848833159178,
+            "subjectivity": 0.393355500821018,
             "sentiment": "Positive"
         },
         {
-            "title": "Kwame Brathwaite, photographer of 'Black is Beautiful' movement, dies at 85",
-            "link": "https://www.cnn.com/style/article/kwame-brathwaite-obituary-tan/index.html",
-            "polarity": 0.07820677621698031,
-            "subjectivity": 0.3575279822218599,
+            "title": "What satellite images reveal about Israel's strikes on Iran",
+            "link": "https://www.bbc.com/news/articles/cy7dkgz71x6o",
+            "polarity": 0.045369720369720375,
+            "subjectivity": 0.478945828945829,
             "sentiment": "Positive"
         },
         {
-            "title": "This boiled bag of offal is banned in the US. In Scotland it's a fine-dining treat",
-            "link": "https://www.cnn.com/travel/article/haggis-scotland-secrets/index.html",
-            "polarity": 0.1291147110465292,
-            "subjectivity": 0.4729023501750775,
+            "title": "Why female entrepreneurs are key to getting more women to work",
+            "link": "https://www.bbc.com/news/articles/c4g0g5005ggo",
+            "polarity": 0.07239177489177491,
+            "subjectivity": 0.3973206555349413,
             "sentiment": "Positive"
         },
         {
-            "title": "Musk's Twitter promised a purge of blue check marks. Instead he singled out the New York Times",
-            "link": "https://www.cnn.com/2023/04/03/tech/twitter-blue-checks/index.html",
-            "polarity": 0.0677206499967694,
-            "subjectivity": 0.3178345286554242,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "See the world's deepest fish",
-            "link": "https://www.cnn.com/videos/travel/2023/04/03/snailfish-deepest-fish-on-camera-lon-orig-ao-cprog-scn.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Emma Heming Willis shares family photos as daughter Mabel turns 11",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/emma-willis-mabel-birthday-photos-intl-scli/index.html",
-            "polarity": 0.24521329365079358,
-            "subjectivity": 0.6038194444444444,
-            "sentiment": "Positive"
-        },
-        {
-            "title": "Some fans whistle as Lionel Messi's name is announced as Paris Saint-Germain's season hits new low",
-            "link": "https://www.cnn.com/2023/04/03/football/lionel-messi-psg-whistles-fans-spt-intl/index.html",
-            "polarity": -0.03000000000000001,
-            "subjectivity": 0.44273809523809526,
+            "title": "Japan\u2019s politics gets a rare dose of upheaval after snap election",
+            "link": "https://www.bbc.com/news/articles/cx2nn16wrk2o",
+            "polarity": -0.008818993506493513,
+            "subjectivity": 0.496258116883117,
             "sentiment": "Negative"
         },
         {
-            "title": "Chelsea searches for new manager as Premier League breaks record for most sackings in a single season",
-            "link": "https://www.cnn.com/2023/04/03/football/chelsea-graham-potter-manager-premier-league-spt-intl/index.html",
-            "polarity": 0.10177717019822284,
-            "subjectivity": 0.41239842029315715,
+            "title": "U.S. Marine Corps veteran shot dead by cartel gunmen in Mexico",
+            "link": "https://www.cbsnews.com/news/american-nicholas-quets-killed-cartel-gunmen-mexico/",
+            "polarity": -0.044500000000000005,
+            "subjectivity": 0.3215,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Prosecutors in country of Georgia probe alleged election \"falsification\"",
+            "link": "https://www.cbsnews.com/news/georgia-country-alleged-election-falsification/",
+            "polarity": 0.10916883116883115,
+            "subjectivity": 0.29246753246753243,
             "sentiment": "Positive"
         },
         {
-            "title": "See 'Star Wars' legend react to Acosta's Darth Vader impression",
-            "link": "https://www.cnn.com/videos/media/2023/04/02/mark-hamill-star-wars-jim-acosta-skywalker-cprog-acostanr-vpx.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Teen skiing star dies from her injuries after training crash",
+            "link": "https://www.cbsnews.com/news/matilde-lorenzi-dies-teen-ski-star-crash-training-italy/",
+            "polarity": 0.1968005952380952,
+            "subjectivity": 0.3503720238095238,
             "sentiment": "Positive"
         },
         {
-            "title": "Angel Reese defends gesture directed towards Caitlin Clark after LSU national title win; calls out double standard after being 'unapologetically' her",
-            "link": "https://www.cnn.com/2023/04/03/sport/angel-reese-gesture-caitlin-clark-lsu-iowa-spt-intl/index.html",
-            "polarity": 0.03194059177068888,
-            "subjectivity": 0.36956195099398986,
+            "title": "Scientists unveil face of \"vampire\" buried with sickle across her neck",
+            "link": "https://www.cbsnews.com/news/vampire-iron-sickle-face-reconstructed-poland/",
+            "polarity": 0.04967687074829933,
+            "subjectivity": 0.40976190476190466,
             "sentiment": "Positive"
         },
         {
-            "title": "Teenage swimmer breaks two world records in four days",
-            "link": "https://www.cnn.com/2023/04/03/sport/summer-mcintosh-world-record-canada-swimmer-spt-intl/index.html",
-            "polarity": 0.11927083333333335,
-            "subjectivity": 0.3781250000000001,
+            "title": "Israel investigates Gaza airstrike that left dozens dead or missing",
+            "link": "https://www.cbsnews.com/video/israel-investigates-gaza-airstrike-that-left-dozens-dead-or-missing/",
+            "polarity": -0.24285714285714288,
+            "subjectivity": 0.27142857142857146,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "China's space station gets new crew as Beijing advances Xi's \"space dream\"",
+            "link": "https://www.cbsnews.com/news/chinas-space-station-new-crew-ji-space-dream-tiangong-shenzhou-19/",
+            "polarity": -0.007422813036020592,
+            "subjectivity": 0.3403201829616923,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "New theory about woman known as world's most prolific female serial killer",
+            "link": "https://www.cbsnews.com/news/blood-countess-elizabeth-bathory-slovakia-serial-killer-new-theory/",
+            "polarity": 0.022814498933901903,
+            "subjectivity": 0.45113717128642494,
             "sentiment": "Positive"
         },
         {
-            "title": "The haunting Masters meltdown that changed Rory McIlroy's career",
-            "link": "https://www.cnn.com/2023/04/03/golf/rory-mcilroy-masters-meltdown-2011-spt-spc-intl/index.html",
-            "polarity": 0.09436813186813187,
-            "subjectivity": 0.4288438057668825,
+            "title": "Giant hand's removal from top of building is stirring controversy",
+            "link": "https://www.cbsnews.com/news/giant-hand-removal-new-zealand-controversy/",
+            "polarity": 0.021764069264069263,
+            "subjectivity": 0.5092929292929294,
             "sentiment": "Positive"
         },
         {
-            "title": "A snowboarder got buried upside down in snow. See skier's quick reaction.",
-            "link": "https://www.cnn.com/videos/us/2023/03/31/snowboarder-rescue-mt-baker-washington-cprog-lon-orig-na.cnn",
-            "polarity": 0.06666666666666667,
-            "subjectivity": 0.7000000000000001,
+            "title": "Journalist shot dead in Mexico amid wave of cartel violence",
+            "link": "https://www.cbsnews.com/news/journalist-killed-mexico-mauricio-cruz-solis/",
+            "polarity": -0.1419642857142857,
+            "subjectivity": 0.23578296703296703,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "40,000 stolen coins based on animated kids' series \"Bluey\" recovered by police",
+            "link": "https://www.cbsnews.com/news/bluey-40000-stolen-coins-recovered-police-australia/",
+            "polarity": 0.09909090909090909,
+            "subjectivity": 0.3191919191919192,
             "sentiment": "Positive"
         },
         {
-            "title": "2023 March Madness: Will UConn or San Diego State triumph in the national championship game that 'means everything?'",
-            "link": "https://www.cnn.com/2023/04/03/sport/march-madness-championship-game-final-preview-spt-intl/index.html",
-            "polarity": 0.13852436323366557,
-            "subjectivity": 0.42354970610784565,
+            "title": "10/29: CBS Evening News",
+            "link": "https://www.cbsnews.com/video/102924-cbs-evening-news/",
+            "polarity": 0.23106060606060605,
+            "subjectivity": 0.47222222222222227,
             "sentiment": "Positive"
         },
         {
-            "title": "Shania Twain calls for equal pay and more diversity in country music",
-            "link": "https://www.cnn.com/2023/04/03/entertainment/shania-twain-equal-diversity/index.html",
-            "polarity": 0.34605263157894733,
-            "subjectivity": 0.48684210526315796,
+            "title": "Flash flooding in Spain leaves dozens dead",
+            "link": "https://www.cbsnews.com/news/spain-flash-flooding-dozens-dead-worst-natural-disaster-there-recent-memory/",
+            "polarity": -0.16944444444444443,
+            "subjectivity": 0.4271604938271605,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Teen accused of killing 3 U.K. girls had al Qaeda manual, police say",
+            "link": "https://www.cbsnews.com/news/axel-rudakubana-girls-killed-uk-dance-class-ricin-al-qaeda-manual-police/",
+            "polarity": -0.07778433687524595,
+            "subjectivity": 0.3313754427390791,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Israel's potential ban on Palestinian aid agency UNRWA raises concerns",
+            "link": "https://www.cbsnews.com/news/israel-potential-ban-unrwa-concerns-us-europe/",
+            "polarity": 0.06187343358395989,
+            "subjectivity": 0.31735588972431084,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Russia drill simulates \"massive nuclear strike,\" Moscow says",
+            "link": "https://www.cbsnews.com/news/russia-nuclear-forces-drill-retaliatory-strike-putin/",
+            "polarity": 0.07926240426240427,
+            "subjectivity": 0.4248917748917748,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Dozens jailed in drug smuggling mega-trial: \"Your honor, I played, I lost.\"",
+            "link": "https://www.cbsnews.com/news/belgium-drugs-smuggling-dozens-sentenced-prison/",
+            "polarity": -0.05933908045977013,
+            "subjectivity": 0.3876436781609196,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Lebanon's Hezbollah names replacement for slain former leader",
+            "link": "https://www.cbsnews.com/news/lebanon-hezbollah-naim-qassem-replace-slain-leader-hassan-nasrallah/",
+            "polarity": 0.1042857142857143,
+            "subjectivity": 0.21968253968253967,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "10/28: CBS Evening News",
+            "link": "https://www.cbsnews.com/video/102824-cbs-evening-news/",
+            "polarity": 0.0,
+            "subjectivity": 0.0,
+            "sentiment": "Neutral"
+        },
+        {
+            "title": "Israeli strike in northern Gaza kills dozens, officials there say",
+            "link": "https://www.cbsnews.com/news/israel-strike-northern-gaza-dozens-dead-beit-lahiya/",
+            "polarity": 0.0006720430107526934,
+            "subjectivity": 0.314516129032258,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Prisoner who lived in U.S. executed in Iran over disputed charges",
+            "link": "https://www.cbsnews.com/news/jamshid-sharmahd-executed-iran-lived-in-us-disputed-terror-charges/",
+            "polarity": -0.015922619047619047,
+            "subjectivity": 0.25152529761904757,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "More than a third of all trees species at risk of extinction",
+            "link": "https://www.cbsnews.com/news/tree-species-extiction-risk-global-assessment-finds/",
+            "polarity": 0.18735676088617265,
+            "subjectivity": 0.30504838298955944,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Woman found alive after surviving snake bite, days in wilderness",
+            "link": "https://www.cbsnews.com/news/woman-found-alive-snake-bite-missing-days-wilderness-australia/",
+            "polarity": 0.05344622697563875,
+            "subjectivity": 0.4321301247771836,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "1 dead in suspected terror attack near Tel Aviv as Israel launches missiles at Iran",
+            "link": "https://www.cbsnews.com/video/1-dead-in-suspected-terror-attack-near-tel-aviv-as-israel-launches-missiles-at-iran/",
+            "polarity": -0.008000000000000007,
+            "subjectivity": 0.42800000000000005,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Yomif Kejelcha breaks half-marathon world record by one second",
+            "link": "https://www.cbsnews.com/news/yomif-kejelcha-breaks-mens-half-marathon-world-record/",
+            "polarity": 0.11058132343846629,
+            "subjectivity": 0.34406926406926414,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "NATO: North Korea troops in Russia \"a sign of Putin's growing desperation\"",
+            "link": "https://www.cbsnews.com/news/nato-north-korean-troops-russia-kursk-ukraine-putin-desperation/",
+            "polarity": -0.03913043478260869,
+            "subjectivity": 0.22608695652173919,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "World \"miles short' of emissions goals to curb climate change, U.N. says",
+            "link": "https://www.cbsnews.com/news/climate-change-world-miles-short-emissions-goals/",
+            "polarity": 0.015461613216715265,
+            "subjectivity": 0.3364334305150632,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Political upheaval in Japan after snap election leaves no clear winner",
+            "link": "https://www.cbsnews.com/news/japan-snap-election-leaves-no-clear-winner/",
+            "polarity": 0.019531680440771346,
+            "subjectivity": 0.30183539944903576,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "G\u00e9rard Depardieu skipping sex assaults hearing, lawyer says",
+            "link": "https://www.cbsnews.com/news/gerard-depardieu-hearing-alleged-sex-assaults-2-women/",
+            "polarity": 0.037859362859362866,
+            "subjectivity": 0.3560564435564434,
+            "sentiment": "Positive"
+        },
+        {
+            "title": "Israel investigating deadly crash at bus stop as possible terrorrism",
+            "link": "https://www.cbsnews.com/video/israel-investigating-deadly-crash-at-bus-stop-as-possible-terrorrism/",
+            "polarity": -0.15,
+            "subjectivity": 0.4666666666666666,
+            "sentiment": "Negative"
+        },
+        {
+            "title": "Pompeii archaeologists uncover ancient tiny house with elaborate frescoes",
+            "link": "https://www.cbsnews.com/news/pompeii-archaeologists-ancient-tiny-house-elaborate-fresco-paintings/",
+            "polarity": 0.0727891156462585,
+            "subjectivity": 0.3703401360544218,
             "sentiment": "Positive"
         }
     ]
