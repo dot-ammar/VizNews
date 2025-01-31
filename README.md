@@ -1,4 +1,6 @@
 # VizNews
+### [Embed Clustering Library](https://github.com/dot-ammar/Embed-Clustering)
+
 
 ![VizNews](https://github.com/user-attachments/assets/9d91ea62-aecd-4d7d-90f5-7b329eed7082)
 ![VizNews - RSS Feeds](https://github.com/user-attachments/assets/5bc8158b-2569-4988-95dc-bf636a65aebd)
